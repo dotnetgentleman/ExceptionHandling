@@ -1,0 +1,13 @@
+F:\ExceptionHandling\ExceptionHandling\stringsAndIntegers\stringsAndIntegers\bin\Debug\netcoreapp3.1\stringsAndIntegers.exe
+F:\ExceptionHandling\ExceptionHandling\stringsAndIntegers\stringsAndIntegers\bin\Debug\netcoreapp3.1\stringsAndIntegers.deps.json
+F:\ExceptionHandling\ExceptionHandling\stringsAndIntegers\stringsAndIntegers\bin\Debug\netcoreapp3.1\stringsAndIntegers.runtimeconfig.json
+F:\ExceptionHandling\ExceptionHandling\stringsAndIntegers\stringsAndIntegers\bin\Debug\netcoreapp3.1\stringsAndIntegers.runtimeconfig.dev.json
+F:\ExceptionHandling\ExceptionHandling\stringsAndIntegers\stringsAndIntegers\bin\Debug\netcoreapp3.1\stringsAndIntegers.dll
+F:\ExceptionHandling\ExceptionHandling\stringsAndIntegers\stringsAndIntegers\bin\Debug\netcoreapp3.1\stringsAndIntegers.pdb
+F:\ExceptionHandling\ExceptionHandling\stringsAndIntegers\stringsAndIntegers\obj\Debug\netcoreapp3.1\stringsAndIntegers.csprojAssemblyReference.cache
+F:\ExceptionHandling\ExceptionHandling\stringsAndIntegers\stringsAndIntegers\obj\Debug\netcoreapp3.1\stringsAndIntegers.AssemblyInfoInputs.cache
+F:\ExceptionHandling\ExceptionHandling\stringsAndIntegers\stringsAndIntegers\obj\Debug\netcoreapp3.1\stringsAndIntegers.AssemblyInfo.cs
+F:\ExceptionHandling\ExceptionHandling\stringsAndIntegers\stringsAndIntegers\obj\Debug\netcoreapp3.1\stringsAndIntegers.csproj.CoreCompileInputs.cache
+F:\ExceptionHandling\ExceptionHandling\stringsAndIntegers\stringsAndIntegers\obj\Debug\netcoreapp3.1\stringsAndIntegers.dll
+F:\ExceptionHandling\ExceptionHandling\stringsAndIntegers\stringsAndIntegers\obj\Debug\netcoreapp3.1\stringsAndIntegers.pdb
+F:\ExceptionHandling\ExceptionHandling\stringsAndIntegers\stringsAndIntegers\obj\Debug\netcoreapp3.1\stringsAndIntegers.genruntimeconfig.cache
