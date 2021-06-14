@@ -1,0 +1,13 @@
+F:\ExceptionHandling\ExceptionHandling\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.exe
+F:\ExceptionHandling\ExceptionHandling\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.deps.json
+F:\ExceptionHandling\ExceptionHandling\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.runtimeconfig.json
+F:\ExceptionHandling\ExceptionHandling\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.runtimeconfig.dev.json
+F:\ExceptionHandling\ExceptionHandling\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.dll
+F:\ExceptionHandling\ExceptionHandling\CallingMethods\CallingMethods\bin\Debug\netcoreapp3.1\CallingMethods.pdb
+F:\ExceptionHandling\ExceptionHandling\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.csprojAssemblyReference.cache
+F:\ExceptionHandling\ExceptionHandling\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.AssemblyInfoInputs.cache
+F:\ExceptionHandling\ExceptionHandling\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.AssemblyInfo.cs
+F:\ExceptionHandling\ExceptionHandling\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.csproj.CoreCompileInputs.cache
+F:\ExceptionHandling\ExceptionHandling\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.dll
+F:\ExceptionHandling\ExceptionHandling\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.pdb
+F:\ExceptionHandling\ExceptionHandling\CallingMethods\CallingMethods\obj\Debug\netcoreapp3.1\CallingMethods.genruntimeconfig.cache
