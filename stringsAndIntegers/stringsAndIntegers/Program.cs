@@ -43,6 +43,8 @@ namespace stringsAndIntegers
                 Console.WriteLine(ex.Message);
             }
 
+            Console.WriteLine("The program has exited the try catch block.");
+
             
         }
     }
